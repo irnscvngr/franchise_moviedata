@@ -16,7 +16,9 @@ Below you can see a screenshot of the online-dashboard made with Google Looker S
 Please follow this <a href="https://lookerstudio.google.com/reporting/96721ef5-a848-41e4-bc16-c7a783efda0f">[Link]</a> to find the interactive dashboard on Google Looker Studio!
 <br>
 <br>
-<img src="images/Dashboard.png" width = 1000>
+<a href="https://lookerstudio.google.com/reporting/96721ef5-a848-41e4-bc16-c7a783efda0f">
+  <img src="images/Dashboard.png" width = 1000>
+</a>
 <br>
 <br>
 
