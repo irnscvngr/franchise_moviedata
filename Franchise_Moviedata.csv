@@ -1,0 +1,180 @@
+name;director;runtime;release;music;budget;boxoffice;tomatometer;audiencescore;budget_adj;boxoffice_adj;Franchise
+1: Alien;Ridley Scott;117;25.05.1979;Jerry Goldsmith;11;154;98;94;38,7492525;542,489535;Alien
+2: Aliens;James Cameron;137;18.07.1986;James Horner;18,5;157;97;94;43,15050103;366,1961438;Alien
+3: Alien 3;David Fincher;114;22.05.1992;Elliot Goldenthal;55;167;43;47;100,2100131;304,2740397;Alien
+4: Alien Resurrection;Jean-Pierre Jeunet;109;26.11.1997;John Frizzell;70;161,4;54;39;111,489918;257,0638966;Alien
+5: Prometheus;Ridley Scott;124;11.04.2012;Marc Streitenfeld;125;403,4;73;68;139,1897724;449,1932334;Alien
+6: Alien: Covenant;Ridley Scott;122;04.05.2017;Jed Kurzel;104;240,9;65;55;108,4706593;251,2555944;Alien
+1: American Pie;Paul Weitz;95;09.07.1999;David Lawrence;11;235,5;61;61;16,88264746;361,4421342;American Pie
+2: American Pie 2;James B. Rogers;100;10.08.2001;David Lawrence;30;287,6;52;68;43,31538027;415,2501122;American Pie
+3: American Wedding;Jesse Dylan;96;01.08.2003;Christophe Beck;55;231,5;54;63;76,43652095;321,7282655;American Pie
+4: American Reunion;Jon Hurwitz;113;06.04.2012;Lyle Workman;50;235;45;63;55,67590895;261,6767721;American Pie
+1: The Avengers;Joss Whedon;143;11.04.2012;Alan Silvestri;220;1519;91;91;244,9739994;1691,434114;The Avengers
+2: Avengers: Age of Ultron;Joss Whedon;141;13.04.2015;Bryan Tyler;470;1403;76;83;506,9627495;1513,337739;The Avengers
+3: Avengers: Infinity War;Russo brothers;149;23.04.2018;Alan Silvestri;358;2048;85;91;364,4868761;2085,10928;The Avengers
+4: Avengers: Endgame;Russo brothers;181;22.04.2019;Alan Silvestri;356;2798;94;90;356;2798;The Avengers
+1: The Bourne Identity;Doug Liman;119;14.06.2002;John Powell;60;214;83;93;85,27822099;304,1589882;Jason Bourne
+2: The Bourne Supremacy;Paul Greengrass;108;23.07.2004;John Powell;75;290,6;82;90;101,5138533;393,3323438;Jason Bourne
+3: The Bourne Ultimatum;Paul Greengrass;115;25.07.2007;John Powell;110;444,1;92;91;135,6320161;547,5834396;Jason Bourne
+4: The Bourne Legacy;Tony Gilroy;135;30.07.2012;James Newton Howard;125;276,1;55;58;139,1897724;307,4423692;Jason Bourne
+5: Jason Bourne;Paul Greengrass;123;11.07.2016;John Powell;120;415,5;54;55;127,8247718;442,5932723;Jason Bourne
+1: Batman Begins;Christopher Nolan;140;31.05.2005;Hans Zimmer;150;373,6;84;94;196,3655217;489,0810593;The Dark Knight
+2: The Dark Knight;Christopher Nolan;152;14.07.2008;Hans Zimmer;185;1005;94;94;219,6748528;1193,368795;The Dark Knight
+3: The Dark Knight Rises;Christopher Nolan;165;16.07.2012;Hans Zimmer;275;1081;87;90;306,2174992;1203,713152;The Dark Knight
+1: The Fast and the Furious;Rob Cohen;106;22.06.2001;BT ;38;207,3;53;74;54,86614834;299,3092777;The Fast And The Furious
+2: 2 Fast 2 Furious;John Singleton;108;06.06.2003;David Arnold;76;236,3;36;50;105,6213744;328,3990891;The Fast And The Furious
+3: The Fast and the Furious: Tokyo Drift;Justin Lin;104;16.06.2006;Brian Tyler;85;159;36;69;107,7963457;201,6425762;The Fast And The Furious
+4: Fast & Furious;Justin Lin;107;12.03.2009;Brian Tyler;85;363,2;28;67;101,2918284;432,8140246;The Fast And The Furious
+5: Fast Five;Justin Lin;130;15.04.2011;Brian Tyler;125;626,1;77;83;142,0700782;711,6006077;The Fast And The Furious
+6: Fast & Furious 6;Justin Lin;130;07.05.2013;Lucas Vidal;160;788,7;70;84;175,5907973;865,5528865;The Fast And The Furious
+7: Furious 7;James Wan;137;01.04.2015;Brian Tyler;190;1516;81;82;204,9423881;1635,224528;The Fast And The Furious
+8: The Fate of the Furious;F. Gary Gray;136;04.04.2017;Brian Tyler;250;1236;67;72;260,7467771;1289,132066;The Fast And The Furious
+1: Harry Potter and the Philosopher's Stone;Chris Columbus;152;04.11.2001;John Williams;125;1002;81;82;180,4807511;1446,733701;Harry Potter
+2: Harry Potter and the Chamber of Secrets;Chris Columbus;161;03.11.2002;John Williams;100;880,3;82;80;142,1303683;1251,173632;Harry Potter
+3: Harry Potter and the Prisoner of Azkaban;Alfonso Cuarón;142;23.05.2004;John Williams;130;796,7;90;86;175,9573458;1078,347826;Harry Potter
+4: Harry Potter and the Goblet of Fire;Mike Newell;157;06.11.2005;Patrick Doyle;150;896,4;88;74;196,3655217;1173,480357;Harry Potter
+5: Harry Potter and the Order of the Phoenix;David Yates;138;28.06.2007;Nicholas Hooper;175;942;77;81;215,7782075;1161,503265;Harry Potter
+6: Harry Potter and the Half-Blood Prince;David Yates;153;07.07.2009;Nicholas Hooper;250;934,3;84;78;297,9171425;1113,375945;Harry Potter
+7: Harry Potter and the Deathly Hallows – Part 1;David Yates;146;11.11.2010;Alexandre Desplat;250;976,9;77;85;293,110011;1145,356679;Harry Potter
+8: Harry Potter and the Deathly Hallows – Part 2;David Yates;130;07.07.2011;Alexandre Desplat;250;1342;96;89;284,1401564;1525,26436;Harry Potter
+1: The Hobbit: An Unexpected Journey;Peter Jackson;169;28.11.2012;Howard Shore;258;1021;64;83;287,2876902;1136,902061;The Hobbit
+2: The Hobbit: The Desolation of Smaug;Peter Jackson;161;02.12.2013;Howard Shore;191,2;958,4;73;85;209,8310028;1051,788876;The Hobbit
+3: The Hobbit: The Battle of the Five Armies;Peter Jackson;144;01.12.2014;Howard Shore;275;956;59;74;296,97923;1032,407796;The Hobbit
+1: The Hunger Games;Gary Ross;142;12.03.2012;James Newton Howard;78;694,4;84;81;86,85441796;773,2270235;The Hunger Games
+2: The Hunger Games: Catching Fire;Francis Lawrence;146;11.11.2013;James Newton Howard;135;865;90;89;148,1547352;949,2877479;The Hunger Games
+3: The Hunger Games: Mockingjay – Part 1;Francis Lawrence;123;10.11.2014;James Newton Howard;132;755,4;68;71;142,5500304;815,7749468;The Hunger Games
+4: The Hunger Games: Mockingjay – Part 2;Francis Lawrence;137;04.11.2015;James Newton Howard;160;658,3;69;66;172,5830637;710,0714426;The Hunger Games
+1: Iron Man;Jon Favreau;126;14.04.2008;Ramin Djawadi;140;585,3;94;91;166,2404292;695,0037371;Iron Man
+2: Iron Man 2;Jon Favreau;124;26.04.2010;John Debney;185;623,9;72;71;216,9014081;731,4853434;Iron Man
+3: Iron Man 3;Shane Black;131;14.04.2013;Brian Tyler;200;1215;79;78;219,4884966;1333,392617;Iron Man
+1: Dr. No;Terence Young;109;05.10.1962;Monty Norman;1,1;59,5;92;82;9,296618182;502,8625289;James Bond
+2: From Russia with Love;Terence Young;115;10.10.1963;John Barry;2;79;95;84;16,69596735;659,4907102;James Bond
+3: Goldfinger;Guy Hamilton;110;17.09.1964;John Barry;3;125;99;89;24,72770553;1030,321064;James Bond
+4: Thunderball;Terence Young;130;09.12.1965;John Barry;9;141,2;86;73;73,02553822;1145,689555;James Bond
+5: You Only Live Twice;Lewis Gilbert;117;12.06.1967;John Barry ;9,5;111,6;73;68;72,80763927;855,2981624;James Bond
+6: On Her Majesty's Secret Service;Peter R. Hunt;142;18.12.1969;John Barry;7;82;81;64;48,78507042;571,4822535;James Bond
+7: Diamonds Are Forever;Guy Hamilton;120;14.12.1971;John Barry;7,2;116;64;58;45,45948714;732,4028483;James Bond
+8: Live and Let Die;Guy Hamilton;121;27.06.1973;George Martin;7;161,8;66;64;40,30628378;931,6509595;James Bond
+9: The Man with the Golden Gun;Guy Hamilton;125;19.12.1974;John Barry;7;97,6;41;55;36,29404766;506,0427216;James Bond
+10: The Spy Who Loved Me;Lewis Gilbert;125;07.07.1977;Marvin Hamlisch;13,5;185,4;80;76;56,9454613;782,0510018;James Bond
+11: Moonraker ;Lewis Gilbert;126;26.06.1979;John Barry;34;210,3;60;43;119,7704168;740,8152546;James Bond
+12: For Your Eyes Only;John Glen;127;24.06.1981;Bill Conti;28;195,3;71;64;78,7285785;549,131835;James Bond
+13: Octopussy;John Glen;131;06.06.1983;John Barry;27,5;187,5;43;47;70,58802711;481,282003;James Bond
+14: A View to a Kill;John Glen;131;22.05.1985;John Barry ;30;152,4;38;40;71,30192129;362,2137601;James Bond
+15: The Living Daylights;John Glen;131;29.06.1987;John Barry;40;191,2;73;66;90,00026403;430,201262;James Bond
+16: Licence to Kill;John Glen;133;13.06.1989;Michael Kamen;32;156,1;78;61;65,99374025;321,9257142;James Bond
+17: GoldenEye;Martin Campbell;130;13.11.1995;Éric Serra;60;352,1;79;83;100,6633709;590,7262148;James Bond
+18: Tomorrow Never Dies;Roger Spottiswoode;119;09.12.1997;David Arnold;110;333;57;53;175,1984425;530,3734669;James Bond
+19: The World Is Not Enough;Michael Apted;125;08.11.1999;David Arnold;135;361,8;52;49;207,1961279;555,2856227;James Bond
+20: Die Another Day;Lee Tamahori;133;20.11.2002;David Arnold;142;431,9;57;41;201,825123;613,8610607;James Bond
+21: Casino Royale;Martin Campbell;144;14.11.2006;David Arnold;150;606,1;95;89;190,2288454;768,6513548;James Bond
+22: Quantum of Solace;Marc Forster;106;29.10.2008;David Arnold;215;600,1;64;58;255,2978019;712,5777253;James Bond
+23: Skyfall;Sam Mendes;143;23.10.2012;Thomas Newman;175;1109;82;86;194,8656813;1234,891661;James Bond
+24: Spectre;Sam Mendes;148;26.10.2015;Thomas Newman;272;880,7;63;61;293,3912082;949,961901;James Bond
+1: The Lord of the Rings: The Fellowship of the Ring;Peter Jackson;178;10.12.2001;Howard Shore;93;887,9;91;95;134,2776788;1281,990871;The Lord Of The Rings
+2: The Lord of the Rings: The Two Towers;Peter Jackson;179;05.12.2002;Howard Shore;94;951,2;95;95;133,6025462;1351,944063;The Lord Of The Rings
+3: The Lord of the Rings: The Return of the King;Peter Jackson;201;01.12.2003;Howard Shore;94;1142;93;86;130,6369631;1587,100126;The Lord Of The Rings
+1: Mad Max ;George Miller;93;12.04.1979;Brian May;0,35;100;90;62;1,232930761;352,2659318;Mad Max
+2: Mad Max 2;George Miller;96;24.12.1981;Brian May;4;36;93;86;11,24693979;101,2224581;Mad Max
+3: Mad Max Beyond Thunderdome;George Miller;107;10.07.1985;Maurice Jarre;10;36;80;49;23,7673071;85,56230555;Mad Max
+4: Mad Max: Fury Road;George Miller;120;07.05.2015;Junkie XL;168;375,2;97;85;181,2122168;404,7072843;Mad Max
+1: The Matrix;The Wachowski Brothers;136;31.03.1999;Don Davis;63;465,3;88;85;96,69152634;714,1359874;The Matrix
+2: The Matrix Reloaded;The Wachowski Brothers;138;07.05.2003;Don Davis;127;741,8;73;72;176,4988757;1030,920204;The Matrix
+3: The Matrix Revolutions;The Wachowski Brothers;129;05.11.2003;Don Davis;130;427,3;35;60;180,6681404;593,84228;The Matrix
+1: The Maze Runner;Wes Ball;113;19.09.2014;John Paesano;34;348,3;65;68;36,71743208;376,1376939;The Maze Runner
+2: Maze Runner: The Scorch Trials;Wes Ball;131;18.09.2015;John Paesano;61;312,3;47;54;65,79729302;336,8605674;The Maze Runner
+3: Maze Runner: The Death Cure;Wes Ball;143;11.01.2018;John Paesano;62;288,2;43;58;63,12342547;293,4221165;The Maze Runner
+1: Mission: Impossible;Brian De Palma;110;22.05.1996;Danny Elfman;80;457,7;64;71;130,3956646;746,0261964;Mission Impossible
+2: Mission: Impossible 2;John Woo;123;24.05.2000;Hans Zimmer;125;546,4;57;42;185,581446;811,2136167;Mission Impossible
+3: Mission: Impossible III;J. J. Abrams;126;05.05.2006;Michael Giacchino;150;398,5;71;69;190,2288454;505,3746327;Mission Impossible
+4: Mission: Impossible – Ghost Protocol;Brad Bird;133;07.12.2011;Michael Giacchino;145;694,7;94;76;164,8012907;789,5686666;Mission Impossible
+5: Mission: Impossible – Rogue Nation;Christopher McQuarrie;131;23.07.2015;Joe Kraemer;150;682,7;93;87;161,7966222;736,3903598;Mission Impossible
+6: Mission: Impossible – Fallout;Christopher McQuarrie;147;12.07.2018;Lorne Balfe;178;791,1;97;88;181,2253183;805,4345466;Mission Impossible
+1: Pirates of the Caribbean: The Curse of the Black Pearl;Gore Verbinski;143;28.06.2003;Klaus Badelt;140;654,3;73;86;194,5656897;909,3166483;Pirates of the Caribbean
+2: Pirates of the Caribbean: Dead Man's Chest;Gore Verbinski;151;24.06.2006;Hans Zimmer;225;1066;53;72;285,3432682;1351,892995;Pirates of the Caribbean
+3: Pirates of the Caribbean: At World's End;Gore Verbinski;168;19.05.2007;Hans Zimmer;300;961;44;72;369,9054985;1184,930614;Pirates of the Caribbean
+4: Pirates of the Caribbean: On Stranger Tides;Rob Marshall;137;07.05.2011;Hans Zimmer;410;1046;33;54;465,9898565;1188,842414;Pirates of the Caribbean
+5: Pirates of the Caribbean: Dead Men Tell No Tales;Joachim Ronning;129;11.05.2017;Geoff Zanelli;275;794,9;29;61;286,8214548;829,0704524;Pirates of the Caribbean
+1: First Blood;Ted Kotcheff;93;22.10.1982;Jerry Goldsmith;15;125,2;85;85;39,73943005;331,6917762;Rambo
+2: Rambo: First Blood Part II;George P. Cosmatos;96;22.05.1985;Jerry Goldsmith;25,5;300,4;35;60;60,6066331;713,9699052;Rambo
+3: Rambo III;Peter MacDonald;101;25.05.1988;Jerry Goldsmith;60;189;39;45;129,7111127;408,5900049;Rambo
+4: Rambo;Sylvester Stallone;91;25.01.2008;Brian Tyler;50;113,2;38;69;59,37158184;134,4172613;Rambo
+5: Rambo: Last Blood;Adrian Grünberg;101;20.09.2019;Brian Tyler;50;178,8;26;82;50;178,8;Rambo
+1: Pitch Black;David Twohy;104;18.02.2000;Graeme Revell;23;53,2;60;77;34,14698606;78,98346341;Riddick
+2: The Chronicles of Riddick;David Twohy;119;11.06.2004;Graeme Revell;105;115,8;29;65;142,1193947;156,7373896;Riddick
+3: Riddick;David Twohy;119;04.09.2013;Graeme Revell;38;98,3;57;56;41,70281436;107,8785961;Riddick
+1: Rocky;John G. Avildsen;119;21.11.1976;Bill Conti;0,96;225;94;69;4,312737795;1010,797921;Rocky
+2: Rocky II;Sylvester Stallone;120;15.06.1979;Bill Conti;7;200,2;71;82;24,65861523;705,2363955;Rocky
+3: Rocky III;Sylvester Stallone;100;28.05.1982;Bill Conti;17;270;63;74;45,03802073;715,3097409;Rocky
+4: Rocky IV;Sylvester Stallone;90;21.11.1985;Vince DiCola;28;300,4;40;79;66,54845987;713,9699052;Rocky
+5: Rocky V;John G. Avildsen;104;16.11.1990;Bill Conti;42;119,9;31;31;82,1807054;234,6063471;Rocky
+6: Rocky Balboa;Sylvester Stallone;102;20.12.2006;Bill Conti;24;156,2;77;76;30,43661527;198,0916377;Rocky
+7: Creed;Ryan Coogler;133;19.11.2015;Ludwig Göransson;38;173,6;95;89;40,98847762;187,2526241;Rocky
+8: Creed II;Steven Caple Jr.;130;14.11.2018;Ludwig Göransson;50;214,1;83;79;50,90598828;217,9794418;Rocky
+1: Scary Movie;Keenen Ivory Wayans;88;07.07.2000;David Kitay;19;278;53;43;28,20837979;412,7331359;Scary Movie
+2: Scary Movie 2;Keenen Ivory Wayans;82;04.07.2001;Mark McGrath;45;141,2;15;52;64,97307041;203,8710565;Scary Movie
+3: Scary Movie 3;David Zucker;84;20.10.2003;James L. Venable;48;220,7;35;54;66,70823647;306,7189123;Scary Movie
+4: Scary Movie 4;David Zucker;83;14.04.2006;James L. Venable;40;178,3;35;51;50,72769212;226,1186876;Scary Movie
+5: Scary Movie 5;Malcolm D. Lee;86;12.04.2013;James L. Venable;20;78,4;4;38;21,94884966;86,03949068;Scary Movie
+1: Fifty Shades of Grey;Sam Taylor-Johnson;128;09.02.2015;Danny Elfman;40;569,7;25;41;43,14576592;614,5035711;Fifty Shades Of Gray
+2: Fifty Shades Darker;James Foley;131;07.02.2017;Danny Elfman;55;381;11;48;57,36429096;397,3780883;Fifty Shades Of Gray
+3: Fifty Shades Freed ;James Foley;110;06.02.2018;Danny Elfman;55;372;11;37;55,99658711;378,7405528;Fifty Shades Of Gray
+1: Star Trek: The Motion Picture;Robert Wise;132;07.12.1979;Jerry Goldsmith;44;139;41;42;154,99701;489,6496452;Star Trek
+2: Star Trek II: The Wrath of Khan;Nicholas Meyer;113;04.06.1982;James Horner;12;97;88;90;31,79154404;256,9816477;Star Trek
+3: Star Trek III: The Search for Spock;Leonard Nimoy;105;01.06.1984;James Horner;16;87;79;61;39,37601797;214,1070977;Star Trek
+4: Star Trek IV: The Voyage Home;Leonard Nimoy;122;26.11.1986;Leonard Rosenman;21;133;81;81;48,98164981;310,2171155;Star Trek
+5: Star Trek V: The Final Frontier;William Shatner;106;09.06.1989;Jerry Goldsmith;33;63;21;24;68,05604464;129,9251761;Star Trek
+6: Star Trek VI: The Undiscovered Country;Nicholas Meyer;110;06.12.1991;Cliff Eidelman;27;96,9;82;83;50,68400416;181,8992594;Star Trek
+7: Star Trek Generations;David Carson;118;18.11.1994;Dennis McCarthy;35;118;48;57;60,36765053;203,5252218;Star Trek
+8: Star Trek: First Contact;Jonathan Frakes;111;22.11.1996;Jerry Goldsmith;45;146;92;89;73,34756136;237,972088;Star Trek
+9: Star Trek: Insurrection;Jonathan Frakes;103;11.12.1998;Jerry Goldsmith;70;117,8;54;44;109,7857369;184,7537116;Star Trek
+10: Star Trek: Nemesis;Stuart Baird;116;13.12.2002;Jerry Goldsmith;60;67,3;38;49;85,27822099;95,65373787;Star Trek
+12: Star Trek;J. J. Abrams;127;07.04.2009;Michael Giacchino;150;385,7;94;91;178,7502855;459,6265674;Star Trek
+11: Star Trek  Into Darkness;J. J. Abrams;132;23.04.2013;Michael Giacchino;187;467,4;84;89;205,2217443;512,9446166;Star Trek
+13: Star Trek Beyond;Justin Lin;122;07.07.2016;Michael Giacchino;185;343,5;86;80;197,0631898;365,8984092;Star Trek
+1: Star Wars;George Lucas;121;25.05.1977;John Williams;11;775,8;92;96;46,4000055;3272,465842;Star Wars
+2: The Empire Strikes Back;Irvin Kershner;124;17.05.1980;John Williams;33;550,9;94;97;102,3765517;1709,06795;Star Wars
+3: Return of the Jedi;Richard Marquand;132;25.05.1983;John Williams;32,5;475,3;82;94;83,42221386;1220,017792;Star Wars
+4: Star Wars: Episode I – The Phantom Menace;George Lucas;136;16.05.1999;John Williams;115;1027;52;59;176,5004052;1576,225358;Star Wars
+5: Star Wars: Episode II – Attack of the Clones;George Lucas;142;12.05.2002;John Williams;115;653,8;65;56;163,4499236;929,248348;Star Wars
+6: Star Wars: Episode III – Revenge of the Sith;George Lucas;140;15.05.2005;John Williams;113;868,4;80;66;147,928693;1136,82546;Star Wars
+7: Star Wars: The Force Awakens;J. J. Abrams;135;14.12.2015;John Williams;306;2068;92;86;330,0651093;2230,636098;Star Wars
+8: Rogue One;Gareth Edwards;133;10.12.2016;Michael Giacchino;232;1056;84;86;247,1278921;1124,857992;Star Wars
+9: Star Wars: The Last Jedi;Rian Johnson;152;09.12.2017;John Williams;258;1333;90;42;269,090674;1390,301815;Star Wars
+10: Solo: A Star Wars Story;Ron Howard;135;10.05.2018;John Powell;288;393,2;69;64;293,2184925;400,3246919;Star Wars
+11: Star Wars: The Rise of Skywalker;J. J. Abrams;142;16.12.2019;John Williams;275;1074;51;86;275;1074;Star Wars
+1: The Terminator;James Cameron;107;26.10.1984;Brad Fiedel;6,4;78,3;100;89;15,75040719;192,6963879;Terminator
+2: Terminator 2: Judgment Day;James Cameron;137;01.07.1991;Brad Fiedel;98;520,8;93;94;183,9641633;977,6381247;Terminator
+3: Terminator 3: Rise of the Machines;Jonathan Mostow;109;30.06.2003;Marco Beltrami;187,3;433,4;69;46;260,3010977;602,3197851;Terminator
+4: Terminator Salvation;McG;115;21.05.2009;Danny Elfman;200;371,4;33;54;238,333714;442,5857069;Terminator
+5: Terminator Genisys;Alan Taylor;126;22.06.2015;Lorne Balfe;156;440,6;27;53;168,2684871;475,2506116;Terminator
+6: Terminator: Dark Fate;Tim Miller;128;23.10.2019;Junkie XL;196;261,1;70;82;196;261,1;Terminator
+1: Transformers;Michael Bay;143;12.06.2007;Steve Jablonsky;175;709,7;58;85;215,7782075;875,0731076;Transformers
+2: Transformers: Revenge of the Fallen;Michael Bay;150;08.06.2009;Steve Jablonsky;205;836,3;20;57;244,2920568;996,5924251;Transformers
+3: Transformers: Dark of the Moon;Michael Bay;154;23.06.2011;Steve Jablonsky;195;1124;35;55;221,629322;1277,494143;Transformers
+4: Transformers: Age of Extinction;Michael Bay;165;19.06.2014;Steve Jablonsky;210;1104;18;50;226,7841393;1192,236618;Transformers
+5: Transformers: The Last Knight;Michael Bay;149;18.06.2017;Steve Jablonsky;238;605,4;15;43;248,2309318;631,4243954;Transformers
+6: Bumblebee;Travis Knight;114;03.12.2018;Dario Marianelli;118;468;91;74;120,1381323;476,4800503;Transformers
+1: Twilight;Catherine Hardwicke;121;17.11.2008;Carter Burwell;37;407,1;49;73;43,93497056;483,4034194;The Twilight Saga
+2: The Twilight Saga: New Moon;Chris Weitz;130;16.11.2009;Alexandre Desplat;50;711;28;61;59,5834285;847,2763533;The Twilight Saga
+3: The Twilight Saga: Eclipse;David Slade;123;24.06.2010;Howard Shore;68;698,4;48;60;79,72592299;818,8321267;The Twilight Saga
+4: The Twilight Saga: Breaking Dawn – Part 1;Bill Condon;117;30.10.2011;Carter Burwell;110;712,2;25;60;125,0216688;809,4584776;The Twilight Saga
+5: The Twilight Saga: Breaking Dawn – Part 2;Bill Condon;115;16.11.2012;Carter Burwell;136,2;829,7;49;70;151,661176;923,8860331;The Twilight Saga
+1: X-Men;Bryan Singer;104;12.07.2000;Michael Kamen;75;296,3;82;83;111,3488676;439,9022596;X-Men
+2: X2;Bryan Singer;133;24.04.2003;John Ottman;118;407,7;85;85;163,9910813;566,6030835;X-Men
+3: X-Men: The Last Stand;Brett Ratner;104;26.05.2006;John Powell;210;460,4;57;61;266,3203836;583,8757363;X-Men
+4: X-Men Origins: Wolverine;Gavin Hood;107;09.04.2009;Harry Gregson-Williams;150;373,1;37;58;178,7502855;444,6115435;X-Men
+5: X-Men: First Class;Matthew Vaughn;132;25.05.2011;Henry Jackman;150;353,6;85;87;170,4840938;401,8878372;X-Men
+6: The Wolverine;James Mangold;126;26.07.2013;Marco Beltrami;116;414,8;71;69;127,303328;455,219142;X-Men
+7: X-Men: Days of Future Past;Bryan Singer;131;10.05.2014;John Ottman;210;746;90;91;226,7841393;805,6236567;X-Men
+8: Deadpool;Tim Miller;108;08.02.2016;Junkie XL;58;782,6;85;90;61,78197303;833,6305533;X-Men
+9: X-Men: Apocalypse;Bryan Singer;144;09.05.2016;John Ottman;178;543,9;47;65;189,6067448;579,3657781;X-Men
+10: Logan;James Mangold;137;17.02.2017;Marco Beltrami;112;619;93;90;116,8145561;645,6090201;X-Men
+11: Deadpool 2;David Leitch;119;10.05.2018;Tyler Bates;110;785,8;84;85;111,9931742;800,0385119;X-Men
+12: Dark Phoenix;Simon Kinberg;114;04.06.2019;Hans Zimmer;200;252,4;22;64;200;252,4;X-Men
+13: The New Mutants;Josh Boone;94;28.08.2020;Mark Snow;74;46,3;32;56;74;46,3;X-Men
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
