@@ -1,5 +1,7 @@
 # Franchise Movie Data
 
+<img src="images/Logos_Tools.png" width = 500>
+
 ## Synopsis
 Data engineering and analysis project about franchise movies using Python, Processing and Google Looker Studio.
 The project features 174 movies from 28 different franchises.
