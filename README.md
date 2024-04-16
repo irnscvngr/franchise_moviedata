@@ -17,7 +17,7 @@ Please follow this <a href="https://lookerstudio.google.com/reporting/96721ef5-a
 <br>
 <br>
 <a href="https://lookerstudio.google.com/reporting/96721ef5-a848-41e4-bc16-c7a783efda0f">
-  <img src="images/Dashboard.png" width = 1000>
+  <img src="images/Dashboard_Terminator.png" width = 1000>
 </a>
 <br>
 <br>
